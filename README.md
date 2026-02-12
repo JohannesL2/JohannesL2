@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  🔗 [LinkedIn](https://www.linkedin.com/in/lindgren-johannes)
+  🔗 [LinkedIn](https://www.linkedin.com/in/lindgren-johannes/)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
