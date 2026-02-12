@@ -5,14 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://johannes-webdev.netlify.app/](https://johannes-webdev.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/lindgren-johannes**
-
 - 📄 Know about my experiences [https://johannes-webdev.netlify.app/CV.pdf](https://johannes-webdev.netlify.app/CV.pdf)
 
 - ⚡ Fun fact **I always like to learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [LinkedIn Link](https://www.linkedin.com/in/lindgren-johannes)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
