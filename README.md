@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johannes</h1>
+
+<p align="center">
+  <strong>Web & Android App Developer</strong>
+</p>
+
 <h3 align="center">I see code as a craft – languages and frameworks are just tools.</h3>
 
 - 🌱 I’m currently learning **Android Studio, Jetpack Compose, React, JavaScript, GSAP**
