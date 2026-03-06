@@ -15,7 +15,7 @@
 <br/>
 
 - 🌱 I’m currently learning **Android Studio, Jetpack Compose, React, JavaScript, GSAP**
-- 👨‍💻 All of my projects are available at [https://johannes-webdev.netlify.app/](https://johannes-webdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://johannesl2.netlify.app/](https://johannesl2.netlify.app/)
 - ⚡ Fun fact **I’ve spent more time centering divs than I’m willing to admit.**
 
 <h3 align="left">Connect with me:</h3>
