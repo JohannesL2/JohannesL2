@@ -8,7 +8,7 @@
   Passionate about building seamless digital experiences. Based in Stockholm, specializing in modern web technologies and mobile app development.
 </p>
 
---
+---
 
 - 🌱 I’m currently learning **Android Studio, Jetpack Compose, React, JavaScript, GSAP**
 
