@@ -3,11 +3,10 @@
   <strong>Web & Android App Developer</strong>
 </p>
 <h3 align="center">I see code as a craft – languages and frameworks are just tools.</h3>
----
+
 <p align="center">
   Passionate about building seamless digital experiences. Based in Stockholm, specializing in modern web technologies and mobile app development.
 </p>
----
 <br/>
 - 🌱 I’m currently learning **Android Studio, Jetpack Compose, React, JavaScript, GSAP**
 - 👨‍💻 More info about me available at [https://johannesl2.netlify.app/](https://johannesl2.netlify.app/)
