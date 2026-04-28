@@ -25,6 +25,8 @@
 
 Current OS: <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)" />
 
+AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
+
 ---
 
 ### 🚀 About Me
@@ -40,6 +42,7 @@ Current OS: <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johannesl2&theme=dark" alt="johannesl2 streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannesl2&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johannesl2&theme=vision-friendly-dark" alt="Streak Stats" />
 </p>
