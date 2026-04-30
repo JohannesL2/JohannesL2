@@ -25,7 +25,9 @@
 
 Current OS: <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)" />
 
-AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
+AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
 
 ---
 
@@ -33,6 +35,10 @@ AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-th
 - 🌱 I’m currently learning **Android Studio, Jetpack Compose, React, JavaScript, GSAP**
 - 👨‍💻 More info about me available at [johannesl2.netlify.app](https://johannesl2.netlify.app/)
 - ⚡ Fun fact: **I’ve spent more time centering divs than I’m willing to admit.**
+
+### ⚡ Quick Prototyping
+I use **Lovable** to rapidly iterate on UI/UX ideas and build functional web apps.  
+[![Lovable Profile](https://img.shields.io/badge/View_My_Projects-Lovable.dev-ff69b4?style=for-the-badge&logo=rocket&logoColor=white)](https://lovable.dev/@johannesl_2)
 
 ### 🤝 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lindgren-johannes/)
