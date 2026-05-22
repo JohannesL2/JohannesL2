@@ -41,7 +41,7 @@ AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-th
 ---
 
 ### About Me
-- I’m currently learning **Android Studio, Jetpack Compose, Advanced Docker, GSAP**
+- I’m currently learning **Android Studio, Jetpack Compose, Cloud Development, Docker**
 - More info about me available at [johannesl2.netlify.app](https://johannesl2.netlify.app/)
 - Fun fact: **I’ve spent more time centering divs than I’m willing to admit.**
 
