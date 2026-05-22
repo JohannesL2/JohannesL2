@@ -30,10 +30,13 @@ AI Experience: <img src="https://img.shields.io/badge/Claude-D97757?style=for-th
 <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
 
-Favorite Games 🎮: <img src="https://img.shields.io/badge/The_Last_Of_Us-2E3B33?style=for-the-badge&logo=playstation&logoColor=white" />
-<img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E51B24?style=for-the-badge&logo=rockstargames&logoColor=white" />
-<img src="https://img.shields.io/badge/Overwatch_2-F99E1A?style=for-the-badge&logo=overwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/Silent_Hill_2-111111?style=for-the-badge&logo=konami&logoColor=white" />
+### Favorite Games 🎮
+<p align="left">
+  <img src="https://img.shields.io/badge/The_Last_Of_Us-2E3B33?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-E51B24?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overwatch_2-F99E1A?style=for-the-badge&logo=overwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Silent_Hill_2-111111?style=for-the-badge&logo=konami&logoColor=white" />
+</p>
 
 ---
 
