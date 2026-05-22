@@ -66,7 +66,7 @@ I use **Lovable** to rapidly iterate on UI/UX ideas and build functional web app
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=johannesl2&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johannesl2&theme=react-dark" alt="Activity Graph" />
 </p>
