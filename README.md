@@ -14,9 +14,9 @@
 ### About Me
 I am a passion-driven developer focused on building scalable, performant, and beautiful user experiences across Web and Mobile. I bridge the gap between robust frontend logic and clean UI/UX design.
 
-- 🔭 **Current Focus:** Deep diving into native Android development with Jetpack Compose & Cloud integration.
-- ⚡ **Efficiency workflow:** I leverage modern AI tools (Lovable, Claude, Copilot) to rapidly prototype UI/UX ideas and accelerate development cycles without compromising on clean code architecture.
-- 💬 **Fun fact:** I’ve spent more time centering divs than I’m willing to admit.
+-  **Current Focus:** Deep diving into native Android development with Jetpack Compose & Cloud integration.
+-  **Efficiency workflow:** I leverage modern AI tools (Lovable, Claude, Copilot) to rapidly prototype UI/UX ideas and accelerate development cycles without compromising on clean code architecture.
+-  **Fun fact:** I’ve spent more time centering divs than I’m willing to admit.
 
 ---
 
@@ -74,10 +74,9 @@ I am a passion-driven developer focused on building scalable, performant, and be
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=johannesl2&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johannesl2&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
