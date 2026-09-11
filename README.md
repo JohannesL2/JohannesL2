@@ -11,16 +11,20 @@
 
 ---
 
-### About Me
+<details>
+<summary><strong>👤 About Me</strong></summary>
+<br>
+
 I am a passion-driven developer focused on building scalable, performant, and beautiful user experiences across Web and Mobile. I bridge the gap between robust frontend logic and clean UI/UX design.
 
--  **Current Focus:** Deep diving into native Android development with Jetpack Compose & Cloud integration.
--  **Efficiency workflow:** I leverage modern AI tools (Lovable, Claude, Copilot) to rapidly prototype UI/UX ideas and accelerate development cycles without compromising on clean code architecture.
--  **Fun fact:** I’ve spent more time centering divs than I’m willing to admit.
+- **Current Focus:** Deep diving into native Android development with Jetpack Compose & Cloud integration.
+- **Efficiency workflow:** I leverage modern AI tools (Lovable, Claude, Copilot) to rapidly prototype UI/UX ideas and accelerate development cycles without compromising on clean code architecture.
+- **Fun fact:** I’ve spent more time centering divs than I’m willing to admit.
+</details>
 
----
-
-### Tech Stack & Tools
+<details>
+<summary><strong>💻 Tech Stack & Tools</strong></summary>
+<br>
 
 #### **Frontend & Mobile**
 <p align="left">
@@ -42,9 +46,7 @@ I am a passion-driven developer focused on building scalable, performant, and be
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<details>
-<summary><b>View More Tools</b></summary>
-<br>
+#### **More Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,9 +58,9 @@ I am a passion-driven developer focused on building scalable, performant, and be
 </p>
 </details>
 
----
-
-### Featured Projects
+<details>
+<summary><strong>🚀 Featured Projects</strong></summary>
+<br>
 
 **[Point of Sale App for Android](https://github.com/JohannesL2/android-point-of-sale)**  
 > Developed during my internship at **Gardeco Affärssystem**, this is a highly adaptable, merchant-focused Android POS system built to handle any type of product catalog. Structured around **Clean Architecture** to ensure rock-solid reliability at the checkout.
@@ -71,14 +73,19 @@ I am a passion-driven developer focused on building scalable, performant, and be
 > 
 > * **Key Features:** Smooth drag-and-drop task mechanics between custom columns, dynamic board management, and local client-side persistence.
 > * **Tech Stack:** React, JavaScript, Tailwind CSS, Dnd-kit, IndexedDB.
+</details>
 
----
+<details>
+<summary><strong>📊 GitHub Stats</strong></summary>
+<br>
 
-### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=johannesl2&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
+</details>
 
 ---
 
-When I'm not building web apps or writing Kotlin, you'll probably find me tinkering with **ESP32 / IoT microcontrollers**
+<p align="center">
+  <i>When I'm not building web apps or writing Kotlin, you'll probably find me tinkering with <b>ESP32 / IoT microcontrollers</b>.</i>
+</p>
