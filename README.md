@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary><strong>👤 About Me</strong></summary>
+<summary><strong>About Me</strong></summary>
 <br>
 
 I am a passion-driven developer focused on building scalable, performant, and beautiful user experiences across Web and Mobile. I bridge the gap between robust frontend logic and clean UI/UX design.
@@ -23,7 +23,7 @@ I am a passion-driven developer focused on building scalable, performant, and be
 </details>
 
 <details>
-<summary><strong>💻 Tech Stack & Tools</strong></summary>
+<summary><strong>Tech Stack & Tools</strong></summary>
 <br>
 
 #### **Frontend & Mobile**
@@ -59,7 +59,7 @@ I am a passion-driven developer focused on building scalable, performant, and be
 </details>
 
 <details>
-<summary><strong>🚀 Featured Projects</strong></summary>
+<summary><strong>Featured Projects</strong></summary>
 <br>
 
 **[Point of Sale App for Android](https://github.com/JohannesL2/android-point-of-sale)**  
@@ -76,7 +76,7 @@ I am a passion-driven developer focused on building scalable, performant, and be
 </details>
 
 <details>
-<summary><strong>📊 GitHub Stats</strong></summary>
+<summary><strong>GitHub Stats</strong></summary>
 <br>
 
 <p align="left">
