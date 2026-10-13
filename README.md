@@ -1,58 +1,44 @@
-# Hi, I'm Johannes 👋
+# Hi, I'm Johannes Lindgren 👋
 
-**Web & Android Developer based in Stockholm**
+**Junior Frontend Developer based in Stockholm, Sweden**  
+Recently graduated from a two-year higher vocational education programme in frontend development. I build responsive web applications with React and TypeScript, with a focus on usability, accessibility, and maintainable code.
 
-I build web and Android applications, from interactive planning tools to services that solve everyday problems. I enjoy creating useful products with thoughtful user experiences and well-structured code.
+[LinkedIn](https://www.linkedin.com/in/lindgren-johannes/) · [Portfolio](https://johannesl.se/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindgren-johannes/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=vercel&logoColor=white)](https://johannesl.se/)
-
-## Featured Projects
+## Featured projects
 
 ### [Planrum](https://planrum.se)
-
-A web app for planning and designing room layouts. Users can create their own room plans and explore design ideas.
+A web app for planning and designing room layouts. Users can create room plans and explore design ideas.
 
 ### [Applioo](https://applioo.com)
-
-A service for organizing and tracking job applications, with a paid subscription model.
+A service for organizing job applications and tracking their progress.
 
 ### [Nerejustnu](https://nerejustnu.se)
-
-A service status monitoring site that helps users check whether online services are experiencing problems.
-
-### [Android Point of Sale](https://github.com/JohannesL2/android-point-of-sale)
-
-An adaptable Android POS application developed during my internship at Gardeco Affärssystem. It supports different product catalogs and connects checkout workflows with payment, receipt printing, and ERP services.
-
-- Integrated Verifone PSDK for payment processing
-- Integrated Epson ePOS SDK for receipt printing
-- Built with Kotlin, Jetpack Compose, Material 3, and Coroutines
-- Structured using Clean Architecture principles
+A service status site that helps users check whether online services are experiencing problems.
 
 ### [Kanban Board](https://github.com/JohannesL2/kanban-board)
+An open-source task board with customizable columns, drag-and-drop interactions, and local data persistence.
 
-An open-source Kanban board for organizing tasks across customizable columns. It supports drag-and-drop task management and saves board data locally in the browser.
+**Built with:** React, JavaScript, Tailwind CSS, dnd-kit, and IndexedDB.
 
-- Move tasks between columns with drag and drop
-- Create and manage custom columns
-- Persist data locally with IndexedDB
+## Internship
 
-**Built with:** React, JavaScript, Tailwind CSS, dnd-kit, and IndexedDB
+### Android Point of Sale — Gardeco Affärssystem
+During my six-month internship, I worked on an Android POS application and integrations for payment terminals and receipt printers. The public repository presents the architecture with vendor-specific SDKs and hardware interactions removed.
+
+[View the public repository](https://github.com/JohannesL2/android-point-of-sale)
 
 ## Technologies
 
-**Web:** React, TypeScript, JavaScript, Next.js, Vue.js, HTML, CSS, Tailwind CSS  
-**Android:** Kotlin, Jetpack Compose, Material 3, Coroutines  
+**Frontend:** React, TypeScript, JavaScript, Next.js, Vue.js, HTML, CSS, Tailwind CSS  
 **Backend & data:** Node.js, Express, Supabase, SQLite  
-**Tools:** Storybook, Docker, Figma, Postman, Git
+**Other:** Kotlin, Jetpack Compose, Storybook, Docker, Figma, Git
 
-## Current Focus
+## Education
 
-Developing my Android skills with Jetpack Compose and cloud-connected applications, while continuing to build modern web projects.
+**Frontend Development, Higher Vocational Education (2 years)** — JENSEN yrkeshögskola Stockholm, 2026
 
-I use AI tools to support research and prototyping, while keeping implementation, code quality, and architecture at the center of my work.
+## Contact
 
-## Outside of development
-
-I enjoy experimenting with ESP32 and IoT projects.
+I'm looking for junior frontend opportunities in Stockholm.  
+[LinkedIn](https://www.linkedin.com/in/lindgren-johannes/) · [Email](mailto:lindgren-johannes@proton.me)
